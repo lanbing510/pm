@@ -16,6 +16,8 @@ import python from './python.jsx';
 
 import github from './github.jsx';
 
+import douban from './douban.jsx';
+
 import defaultTemplate from './default.jsx';
 
 export default {
@@ -31,5 +33,6 @@ export default {
   fedora: fedora,
   nuget: nuget,
   python: python,
+  douban:douban,
   default: defaultTemplate
 }
